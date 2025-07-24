@@ -4,12 +4,13 @@
 
 ## 📥 Download Latest Release
 
-**Current Version: v1.0.5**
+[![Latest Release](https://img.shields.io/github/v/release/Kandi-Flipz/dock-schedule-releases?label=Latest%20Version)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Kandi-Flipz/dock-schedule-releases/total)](../../releases)
 
-### Windows
-- [📁 FreightSync-1.0.5-win-x64.exe](../../releases/latest/download/FreightSync-1.0.5-win-x64.exe) (64-bit)
-- [📁 FreightSync-1.0.5-win-ia32.exe](../../releases/latest/download/FreightSync-1.0.5-win-ia32.exe) (32-bit)
-- [📁 FreightSync-1.0.5-win-portable.exe](../../releases/latest/download/FreightSync-1.0.5-win-portable.exe) (Portable)
+### Windows (Latest Version - Auto-Updates to Newest)
+- [📁 Windows 64-bit (.exe)](../../releases/latest/download/FreightSync-Setup-x64.exe)
+- [📁 Windows 32-bit (.exe)](../../releases/latest/download/FreightSync-Setup-ia32.exe) 
+- [📁 Portable Version (.exe)](../../releases/latest/download/FreightSync-Portable-x64.exe)
 
 ### All Releases
 🔗 [View all releases](../../releases)
