@@ -2,8 +2,7 @@
 > Professional dock scheduling and document generation for event management
 
 ## 📥 Download Latest Release
-[![Latest Release](https://img.shields.io/github/v/release/Kandi-Flipz/dock-schedule-releases?label=Latest%20Version)](https://github.com/Kandi-Flipz/dock-schedule-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Kandi-Flipz/dock-schedule-releases/total)](https://github.com/Kandi-Flipz/dock-schedule-releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Kandi-Flipz/dock-schedule-releases?label=Latest%20Version&color=brightgreen)](https://github.com/Kandi-Flipz/dock-schedule-releases/releases/latest)
 
 **Latest Version: v1.0.5** 
 
